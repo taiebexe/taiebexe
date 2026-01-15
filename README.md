@@ -50,12 +50,4 @@
 
 ---
 
-## Featured Projects
-- **Java REST API + Tests + CI** — Spring Boot • JUnit • Docker • GitHub Actions  
-  https://github.com/taiebexe/REPO_NAME
 
-- **DevOps Mini Stack** — Docker Compose • Nginx • CI/CD  
-  https://github.com/taiebexe/REPO_NAME
-
-- **ML Project (End-to-End)** — pandas • scikit-learn/PyTorch • evaluation  
-  https://github.com/taiebexe/REPO_NAME
