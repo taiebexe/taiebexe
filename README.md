@@ -7,32 +7,55 @@
 <a href="https://www.linkedin.com/in/taiebbourbia/"><img src="https://img.shields.io/badge/LinkedIn-taiebbourbia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/taiebexe"><img src="https://img.shields.io/badge/GitHub-taiebexe-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=taiebexe&style=for-the-badge&color=0E75B6" alt="profile views"/>
+</div>
+
+---
+
+<div align="left">
+
+- 🧑‍🎓 Technische Informatik @ **TH Köln**
+- 🧑‍💼 Werkstudent **IT-Support & Infrastruktur**
+- 🔬 Research Assistant **MLOps & AI**
+- 🧪 Interested in **Testing**, **DevOps**, **ML/AI**
+- 🐧 Exploring **GNU/Linux**
+- 📍 **Köln, Germany**
+- 📬 **taieb.bourbia@gmail.com**
+
+</div>
+
+<img align="right" alt="linux" width="120" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
+
+---
+
+<div align="center">
+
+<img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiebexe&theme=github_dark" />
+<img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiebexe&theme=github_dark" />
+<img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiebexe&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiebexe&theme=github_dark" />
 
 </div>
 
 ---
 
-## About
-Technische Informatik student at **TH Köln**.  
-I build practical software with **Java & Python**, care about **clean code + testing**, and I’m expanding into **DevOps/MLOps** through work and research.
-
-- Based in **Köln**
-- Looking for **Werkstudent** roles: **Softwareentwicklung / DevOps / ML-AI**
-
----
-
-## Stack
+## Languages & Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,linux,bash,git,github,docker,aws,gcp,spring,flask,postgres,mysql,vscode,intellij&perline=8" />
 </div>
 
-**Tools:** Jira • Confluence • Active Directory/LDAP • Google Workspace • Kandji (MDM)
-
 ---
 
+## Featured Projects
+- **Java REST API + Tests + CI** — Spring Boot • JUnit • Docker • GitHub Actions  
+  https://github.com/taiebexe/REPO_NAME
 
+- **DevOps Mini Stack** — Docker Compose • Nginx • CI/CD  
+  https://github.com/taiebexe/REPO_NAME
 
-## Contact
-- Email: taieb.bourbia@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/taiebbourbia/
+- **ML Project (End-to-End)** — pandas • scikit-learn/PyTorch • evaluation  
+  https://github.com/taiebexe/REPO_NAME
