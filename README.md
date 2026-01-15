@@ -19,7 +19,6 @@ I build practical software with **Java & Python**, care about **clean code + tes
 
 - Based in **Köln**
 - Looking for **Werkstudent** roles: **Softwareentwicklung / DevOps / ML-AI**
-- Availability: **16–20h/week** (edit)
 
 ---
 
@@ -32,25 +31,7 @@ I build practical software with **Java & Python**, care about **clean code + tes
 
 ---
 
-## Featured Projects
-- **Java REST API + Tests + CI** — Spring Boot • JUnit • Docker • GitHub Actions  
-  https://github.com/taiebexe/REPO_NAME
 
-- **DevOps Mini Stack** — Docker Compose • Nginx • CI/CD  
-  https://github.com/taiebexe/REPO_NAME
-
-- **ML Project (End-to-End)** — pandas • scikit-learn/PyTorch • evaluation  
-  https://github.com/taiebexe/REPO_NAME
-
----
-
-## Stats
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=taiebexe&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiebexe&layout=compact&langs_count=8" />
-</div>
-
----
 
 ## Contact
 - Email: taieb.bourbia@gmail.com  
